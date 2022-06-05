@@ -1,3 +1,5 @@
+//TC -> O(n*m)
+//Sc -> O(n)+O(m)
 import java.util.* ;
 import java.io.*; 
 public class Solution {
