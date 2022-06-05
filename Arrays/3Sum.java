@@ -1,3 +1,5 @@
+//TC -> O(n^2)
+//SC -> O(1)
 import java.util.* ;
 import java.io.*; 
 public class Solution {
