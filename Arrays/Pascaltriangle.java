@@ -1,5 +1,5 @@
 //TC -> O(n^2)
-//SC -> O(1)
+//SC -> O(n^2)
 import java.util.* ;
 import java.io.*; 
 import java.util.ArrayList;
